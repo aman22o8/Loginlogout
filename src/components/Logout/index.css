@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.login_out {
+  height: 35px;
+  width: 120px;
+  background-color: #f8fafc;
+  color: #303150;
+  font: normal normal 500 15px/1.5 'Roboto';
+  border: none;
+  border-radius: 7px;
+}
